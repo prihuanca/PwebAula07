@@ -1,0 +1,46 @@
+.titulo{
+     color: blueviolet;               
+}
+.imagem1{
+     text-align: center;
+     margin:auto;
+     display: block;
+}
+.imagem2{
+     text-align: center;                    
+}
+.conteudo1{
+    font-size: 14px;
+    color: #000000;
+    background-color: rgb(108, 65, 109);
+    border: 5px solid rgb(140, 103, 177);
+    margin:  25px 25px 25px 25px;
+    padding: 10px 10px 10px 10px;
+}
+.conteudo2{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: #4f95be;
+    padding-left: 25px;   
+    padding-top: 15px;
+    border-width: 7px;
+    border-style: dashed;
+    border-color: #14d8d8
+}
+.conteudo3{
+
+    font-size: 25px;
+    color: rgb(0, 0, 0); 
+    background-color: #7f44445b;
+    margin-left: 25px;
+    margin-top: 10px;
+    padding-left: 25px;   
+    padding-top: 15px;
+    border-width: 10px;
+    border-style: double;
+    border-color: #bcbf13
+}
+.linha{
+   display: flex; 
+   justify-content: center;                     
+} 
